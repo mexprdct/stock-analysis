@@ -1,4 +1,4 @@
-# stock-analysis
+# Stock Analysis
 
 ## Purpose
 The purpose of this project was to use VBA code to analyze the performance of the stock market over 2017 or 2018. We  refactored the code we had previously used. This means we had to tweak the code a bit so that we were able to use it more efficiently. In the code itself used the index function to easily go through a lot of data that otherwise would have been very time consuming.  By doing this we could analyze the annual percentage change in stock.
@@ -15,4 +15,5 @@ While I cannot find the issue if I remove this, I am able to get the timer to wo
  stock-analysis/Challenge 2 Resources/Challenge 2 Resources/VBA Challenge 2017.png
 
 ## Summary
-While refactoring may seem to make things easier, for me there were a lot of issues in debugging my codes. The code worked for me in the original form.  I spent hours trying to figure out the bugs, and was able to solve all but one (above). I could not find any solution. In refactoring you still have to plan out your code and think about what each steps means. It was a cleaner and easier way of coding compared to the original code we used. 
+While refactoring may seem to make things easier, for me there were a lot of issues in debugging my codes. The code worked for me in the original form.  I spent hours trying to figure out the bugs, and was able to solve all but one (above). I could not find any solution. 
+In refactoring you still have to plan out your code and think about what each steps means. It was a cleaner and easier way of coding compared to the original code we used. It also may save time if you are more advanced. Refactoring code does give one the ability to see a cleaner and easier way of coding. In turn, it may save money especially if this is a project for work. Overall, I do like that it looked cleaner and perhaps if I were more advanced the debugging would not have taken so long. 
