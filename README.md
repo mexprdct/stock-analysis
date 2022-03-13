@@ -13,4 +13,4 @@ While I cannot find the issue if I remove this, I am able to get the timer to wo
 Challenge 2 Resources/Screenshot Timer.png
 
 ## Summary
-While refactoring may seem to make things easier, for me there were a lot of issues in debugging my codes. The code worked for me in the original form.  I spent hours trying to figure out the bugs and google wasn’t always helpful.  The majority of the codes didn’t make sense as I had to add “End If” where other peers did not have to.  In refactoring you still have to plan out your code and think about what each steps means. It was a cleaner and easier way of coding compared to the original code we used. 
+While refactoring may seem to make things easier, for me there were a lot of issues in debugging my codes. The code worked for me in the original form.  I spent hours trying to figure out the bugs, and was able to solve all but one (above). I could not find any solution. In refactoring you still have to plan out your code and think about what each steps means. It was a cleaner and easier way of coding compared to the original code we used. 
