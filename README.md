@@ -6,10 +6,6 @@ The purpose of this project was to use VBA code to analyze the performance of th
 ## Results
 Overall, the stock market performed better in 2017, with returns as high as 199%.  In 2018 the market performed poorly. VBA gave me a lot of trouble with step 4:
 
-Cells(4 + i, 3).Value = tickerEndingPrices(i) / tickerStartingPrices(i) – 1
- 
-While I cannot find the issue if I remove this, I am able to get the timer to work. However, my numbers are incorrect. Images can be found here:
-
  stock-analysis/Challenge 2 Resources/Challenge 2 Resources/VBA Challenge 2018.png
 
  stock-analysis/Challenge 2 Resources/Challenge 2 Resources/VBA Challenge 2017.png
